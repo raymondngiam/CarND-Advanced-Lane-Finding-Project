@@ -9,11 +9,11 @@ This is a project for Udacity's Self Driving Car Nanodegree. The objective is to
 
 ### Video demo
 
-You can see the video demo of the final outcome at [here](https://vimeo.com/).
+You can see the video demo of the final outcome at [here](https://vimeo.com/243071717).
 
 ### Final report
 
-You can view the final report of this project at [writeup.pdf](https://github.com/).
+You can view the final report of this project at [writeup.pdf](https://github.com/raymondngiam/CarND-Advanced-Lane-Finding-Project/blob/master/writeup.pdf).
 
 ### Dependencies
 
@@ -62,5 +62,5 @@ $ source deactivate advanced-lane-finding
 
 ### How to run
 
-You can step through the Jupyter Notebook at [notebook.ipynb](https://github.com/).
+You can step through the Jupyter Notebook at [notebook.ipynb](https://github.com/raymondngiam/CarND-Advanced-Lane-Finding-Project/blob/master/notebook.ipynb).
 
