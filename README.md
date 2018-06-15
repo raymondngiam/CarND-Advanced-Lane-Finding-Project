@@ -5,11 +5,9 @@
 
 This is a project for Udacity's Self Driving Car Nanodegree. The objective is to create a software pipeline to identify the lane boundaries from video stream of a front-facing camera on a car.
 
-![Screenshot](/images/Capture.JPG)
-
 ### Video demo
 
-You can see the video demo of the final outcome at [here](https://vimeo.com/243071717).
+<img src="/images/demo.gif" width="800">
 
 ### Final report
 
