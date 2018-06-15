@@ -7,7 +7,7 @@ This is a project for Udacity's Self Driving Car Nanodegree. The objective is to
 
 ### Video demo
 
-<img src="/images/demo.gif" width="800">
+<img src="/images/demo.gif" width="640">
 
 ### Final report
 
